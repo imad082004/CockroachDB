@@ -1,0 +1,2101 @@
+[
+  {
+    "id": "1368337",
+    "tmdbId": 1368337,
+    "title": "الأوديسة",
+    "description": "يتتبع الفيلم رحلة أوديسيوس، الملك الأسطوري لـ \"إيثاكا\"، في عودته الطويلة والخطرة إلى وطنه بعد انتهاء حرب طروادة. تستغرق رحلته عشر سنوات، وخلالها يواجه أوديسيوس العديد من التحديات والمخاطر والمخلوقات الأسطورية",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kVYFP3YKVgJEvKCbRdBMBbXVd3N.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+    "genres": [
+      "مغامرة",
+      "أكشن",
+      "فانتازيا"
+    ],
+    "rating": 7.8,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "TOP 10"
+  },
+  {
+    "id": "1339713",
+    "tmdbId": 1339713,
+    "title": "هوس",
+    "description": "بعد أن كسر غصنًا من ’صفصافة الأمنية الواحدة‘ الغامضة ليفوز بقلب الفتاة التي يعشقها، يجد رومانسي يائس نفسه يحصل على ما طلب تمامًا، لكنه سرعان ما يكتشف أن بعض الرغبات تأتي بثمن باهظ ومظلم",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qukypUmPwd21UnNTRvUdZHd4pNJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+    "genres": [
+      "رعب",
+      "إثارة وتشويق"
+    ],
+    "rating": 8.3,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "حلقة جديدة"
+  },
+  {
+    "id": "1275779",
+    "tmdbId": 1275779,
+    "title": "يوم الإفصاح",
+    "description": "لو اكتشفت يومًا أننا لسنا وحدنا... لو جاء أحدهم وأراك الحقيقة، وأثبتها لك بما لا يدع مجالًا للشك... هل سيصيبك ذلك بالخوف؟",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pISy0e4JlOqAU0Exa6X0svaTHJk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+    "genres": [
+      "خيال علمي",
+      "إثارة وتشويق"
+    ],
+    "rating": 6.7,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "دبلجة جديدة"
+  },
+  {
+    "id": "1084244",
+    "tmdbId": 1084244,
+    "title": "حكاية لعبة ٥",
+    "description": "عندما تحصل \"بوني\" على جهاز \"ليلي باد\" اللوحي كهدية وتنجذب إليه بشكلٍ كبير، يجد \"وودي\" و\"باز\" و\"جيسي\" وبقية الألعاب أنفسهم أمام تحدٍ غير مسبوق، إذ تصبح مهمتهم في لفت انتباهها أصعب من أي وقت مضى، بينما يواجهون تهديدًا جديدًا يهدد عالم اللعب الذي اعتادوا عليه.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/b9yODva86tl5Em8cOoKSQQzzAy4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+    "genres": [
+      "أنيميشن",
+      "عائلي",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "rating": 7.4,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "أضيف حديثاً"
+  },
+  {
+    "id": "1108427",
+    "tmdbId": 1108427,
+    "title": "موانا",
+    "description": "تستجيب موانا المراهقة لنداء المحيط، ولأول مرة، تبحر إلى ما وراء الشعاب المرجانية لجزيرتها موتوني مع نصف الإله سيئ السمعة ماوي في رحلة لا تُنسى لاستعادة الازدهار لشعبها",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wL0fAAvNd2Uk7Sok620oVaaItIS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+    "genres": [
+      "عائلي",
+      "فانتازيا",
+      "كوميديا",
+      "مغامرة"
+    ],
+    "rating": 5.8,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "موسم جديد"
+  },
+  {
+    "id": "1273221",
+    "tmdbId": 1273221,
+    "title": "فلم مخيف 6",
+    "description": "بعد ستة وعشرين عاماً من الهروب من قاتل مقنع مألوف بشكل مثير للريبة، عاد الأربعة الأساسيون إلى مرمى القاتل، ولم يعد أي فيلم رعب في مأمن",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/1KlYdWoOrbL5ux357rW9LC155qw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "genres": [
+      "كوميديا",
+      "رعب"
+    ],
+    "rating": 6,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1315772",
+    "tmdbId": 1315772,
+    "title": "المينيون والوحوش",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uYs4IJdDQvnrNvVtYBNmjiHqbmF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+    "genres": [
+      "مغامرة",
+      "أنيميشن",
+      "كوميديا",
+      "عائلي",
+      "فانتازيا"
+    ],
+    "rating": 6.4,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1083381",
+    "tmdbId": 1083381,
+    "title": "الغرفة الخلفية",
+    "description": "يظهر مدخل غريب في الطابق السفلي من صالة عرض الأثاث",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9FZaaQstyvpmmK1sHOwU39ijtCO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+    "genres": [
+      "رعب",
+      "غموض",
+      "خيال علمي"
+    ],
+    "rating": 7,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1368314",
+    "tmdbId": 1368314,
+    "title": "Passenger",
+    "description": "بعد أن شهد زوجان شابان حادث سير مروع على الطريق السريع، سرعان ما أدركا أنهما لم يغادرا مكان الحادث بمفردهما، إذ كان هناك كيان شيطاني يُدعى \"الراكب\" لن يتوقف حتى يبتلعهما.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+    "genres": [
+      "رعب",
+      "إثارة وتشويق"
+    ],
+    "rating": 7.2,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1280738",
+    "tmdbId": 1280738,
+    "title": "الغاضبون",
+    "description": "بعد أن خُطفت ابنته من الشارع، يبدأ صاحب متجر (شيه مياو) في تتبع شبكة إجرامية معقدة، مستخدماً كل الطرق والوسائل الممكنة لاستعادة ابنته.  حليفه الوحيد في هذه الرحلة هو صحفي (جو تاسليم)؛ حيث يتعين على هذين الشخصين القادمين من خلفيات مختلفة تماماً أن يتعلما كيف يثقا ببعضهما ويتعاونا معاً، مستغلين مهارات قتالية منحتها لهما أسرار ماضيهما الغامض.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/twehTxCQx3zBbrGiZjWfcLAuajt.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+    "genres": [
+      "أكشن",
+      "جريمة",
+      "إثارة وتشويق"
+    ],
+    "rating": 7.4,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "687163",
+    "tmdbId": 687163,
+    "title": "مشروع هيل ماري",
+    "description": "يستيقظ رايلاند غريس، مدرس العلوم، على متن مركبة فضائية تبعد سنوات ضوئية عن موطنه، فاقدًا للذاكرة تمامًا، لا يتذكر من هو ولا كيف وصل إلى هناك. ومع عودة ذاكرته تدريجيًا، يبدأ في اكتشاف مهمته: حل لغز المادة الغامضة التي تتسبب في انطفاء الشمس. عليه أن يستعين بمعرفته العلمية وأفكاره غير التقليدية لإنقاذ كل شيء على الأرض من الفناء... لكن صداقة غير متوقعة تعني أنه قد لا يضطر إلى القيام بذلك بمفرده.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wNnoJaRb5Oc9SodTWJLEC26wL8q.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "genres": [
+      "خيال علمي",
+      "مغامرة"
+    ],
+    "rating": 8.7,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1314481",
+    "tmdbId": 1314481,
+    "title": "الشيطان يرتدي برادا 2",
+    "description": "ستبقى الأيقونات خالدة.  مع اقتراب ميراندا بريستلي من سن التقاعد، تجتمع مجدداً مع أندي ساكس لمواجهة مساعدتها السابقة التي تحولت إلى منافسة لدودة: إميلي شارلتون.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/norHRkEH77pCtqjUOCkdYPWEI7w.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+    "genres": [
+      "كوميديا",
+      "دراما"
+    ],
+    "rating": 7.1,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "261639",
+    "tmdbId": 261639,
+    "title": "尼寺の情事　極楽ＳＥＸ",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/nth8G0m835nk1xWsV6Ga95FT2na.jpg",
+    "backdropUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1600&auto=format&fit=crop&q=80",
+    "genres": [],
+    "rating": 2,
+    "releaseDate": "1998",
+    "type": "movie"
+  },
+  {
+    "id": "1318621",
+    "tmdbId": 1318621,
+    "title": "Descendants: Wicked Wonderland",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/s7XeWOhaI1DK5Zxtc6xOf2T71Gc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/idRLKyu43mRhMWNjzd6FiEromNI.jpg",
+    "genres": [
+      "فانتازيا",
+      "عائلي",
+      "فيلم تلفزيوني"
+    ],
+    "rating": 7.6,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1081003",
+    "tmdbId": 1081003,
+    "title": "سوبرجيرل",
+    "description": "عندما يوجّه عدوّ قاسٍ ولا يرحم ضربة مؤلمة تمسّ حياتها بشكل شخصي، تجد \"كارا زور-إل\"، المعروفة باسم سوبرجيرل، نفسها مضطرة للتعاون مع رفيق غير متوقع. وتنطلق معه في رحلة ملحمية عبر الفضاء، تسعى خلالها إلى الانتقام وتحقيق العدالة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qdSh923DHzTh9vWz4pGTbYpkXIy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "خيال علمي"
+    ],
+    "rating": 6.2,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1668364",
+    "tmdbId": 1668364,
+    "title": "Deseo",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+    "genres": [
+      "غموض",
+      "دراما"
+    ],
+    "rating": 6.8,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "83533",
+    "tmdbId": 83533,
+    "title": "أفاتار: النار و الرماد",
+    "description": "في أعقاب الحرب المدمرة ضد منظمة إدارة تنمية الموارد (RDA) وفقدان ابنهما الأكبر، يواجه جيك سولي ونيتيري تهديدًا جديدًا على باندورا: شعب الرماد، قبيلة نافي عنيفة ومتعطشة للسلطة بقيادة فارانغ القاسي. يجب على عائلة جيك أن تقاتل من أجل بقائها ومستقبل باندورا في صراع يدفعهم إلى أقصى حدودهم العاطفية والجسدية.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2G3dQUuoFWPvNxVamp5RvogGv83.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+    "genres": [
+      "خيال علمي",
+      "مغامرة",
+      "فانتازيا"
+    ],
+    "rating": 7.6,
+    "releaseDate": "2025",
+    "type": "movie"
+  },
+  {
+    "id": "1228710",
+    "tmdbId": 1228710,
+    "title": "The Mandalorian and Grogu",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+    "genres": [
+      "أكشن",
+      "مغامرة",
+      "خيال علمي"
+    ],
+    "rating": 6.7,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1321008",
+    "tmdbId": 1321008,
+    "title": "Black Box",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/O7vJPEWsnLrKqPYHIHKG8zlEK1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ce0RjYfcgzQeiT3PjaARWv5PVQO.jpg",
+    "genres": [
+      "رعب",
+      "إثارة وتشويق",
+      "خيال علمي"
+    ],
+    "rating": 6.4,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1523145",
+    "tmdbId": 1523145,
+    "title": "الذهاب",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/naOC89qeEygU44xM9EIot1m5AUQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+    "genres": [
+      "رومانسية"
+    ],
+    "rating": 7.1,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "931285",
+    "tmdbId": 931285,
+    "title": "مورتال كومبات ٢",
+    "description": "يجتمع أبرز الأبطال المحبوبين، ومعهم جوني كيج، في مواجهة حاسمة لا تعرف الرحمة ولا القوانين، حيث تشتعل معركة دموية للقضاء على طغيان شاو كان، الذي يهدد بفناء عالم الأرض وكل من يدافع عنه.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/jw9FFEMZwulB144UCMCSeBCxLfs.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+    "genres": [
+      "أكشن",
+      "فانتازيا",
+      "مغامرة"
+    ],
+    "rating": 8,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "حلقة جديدة"
+  },
+  {
+    "id": "1413976",
+    "tmdbId": 1413976,
+    "title": "المواطن المنتقم",
+    "description": "يأخذ رجل العدالة بيده، ويبدأ في مطاردة المجرمين بنفسه. وسرعان ما تُحوله حملته ضد الجريمة إلى نجم على وسائل التواصل الاجتماعي، لكنها تضعه في مواجهة مباشرة مع قائد الشرطة المحلي.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/71DkzxDe6hcCe5io5TJpGliEmQv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
+    "genres": [
+      "إثارة وتشويق",
+      "أكشن"
+    ],
+    "rating": 6.4,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "أضيف حديثاً"
+  },
+  {
+    "id": "1226863",
+    "tmdbId": 1226863,
+    "title": "فيلم سوبر ماريو جالاكسي",
+    "description": "بعد إحباط خطة باوزر السابقة للزواج من الأميرة بيتش، يواجه ماريو ولويجي الآن تهديداً جديداً يتمثل في (باوزر الابن)، المصمم على تحرير والده من الأسر واستعادة إرث عائلته. جنباً إلى جنب مع رفاقهم الجدد والقدامى، يسافر الأخوان عبر النجوم لإيقاف الحملة الانتقامية للوريث الشاب.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rkbRv8dOhWOhIidPyOaJYhtmcy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+    "genres": [
+      "عائلي",
+      "كوميديا",
+      "مغامرة",
+      "فانتازيا",
+      "أنيميشن"
+    ],
+    "rating": 8.3,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "969681",
+    "tmdbId": 969681,
+    "title": "الرجل العنكبوت: يوم جديد",
+    "description": "بينما يواصل \"بيتر باركر\" حماية المدينة بصفته \"الرجل العنكبوت\" في عالمٍ لم يعد يتذكره أحد، يجد نفسه وحيدًا وهو يشاهد أصدقاءه القدامى يمضون في حياتهم من دونه. ومع تصاعد الضغوط، يبدأ بالتغير بطريقة قد تعجز قواه عن كبحها. لكن هذا التحول قد يكون أمله الوحيد لمواجهة تهديدٍ غامض وخطير يلوح في الأفق، عدو يمتلك قوة مرعبة لا يستطيع أحد حتى رؤيته، ويهدد المدينة وكل من يهتم \"بيتر\" لأمرهم.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/1hqkM7Xo7d5zylpSolUeYAbFbe5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h0M2JTPUlR64jkfXAhZeD9e7ZWF.jpg",
+    "genres": [
+      "خيال علمي",
+      "أكشن",
+      "مغامرة"
+    ],
+    "rating": 7.5,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1304313",
+    "tmdbId": 1304313,
+    "title": "المومياء",
+    "description": "تدور أحداث الفيلم حين تختفي الابنة الصغيرة لصحفي في الصحراء المصرية دون أن تترك أي أثر. وبعد ثماني سنوات، تُفاجأ العائلة المكسورة بعودتها إليهم، لكن ما كان يُفترض أن يكون لقاءً مفعمًا بالفرح يتحول إلى كابوس حي.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vQPzYAGCebXjCdHlWIlRJPRcE3S.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s3tHm62ohyb0I5vSnPrpczCBtSX.jpg",
+    "genres": [
+      "رعب",
+      "غموض"
+    ],
+    "rating": 8,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1491920",
+    "tmdbId": 1491920,
+    "title": "功夫女足",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7H9Gkdr9V5KMM6STtCRdTuRD2Zd.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vOrbq0qe3BMpGLcbYQPUP9VTN72.jpg",
+    "genres": [
+      "دراما",
+      "كوميديا",
+      "أكشن"
+    ],
+    "rating": 6.3,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1321491",
+    "tmdbId": 1321491,
+    "title": "The Banished",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pBlTYknphiODxIQQrei030MSvdT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5ip7m3KjjiYWbiqipTTCagWyYJ5.jpg",
+    "genres": [
+      "رعب"
+    ],
+    "rating": 4.1,
+    "releaseDate": "2025",
+    "type": "movie"
+  },
+  {
+    "id": "1645603",
+    "tmdbId": 1645603,
+    "title": "Night of the Living Dead",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5l0klDtj2v4FMFOGGCEH23AQb30.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h1x4YiBtQEGY2dMx7k0fvlErlSn.jpg",
+    "genres": [
+      "رعب"
+    ],
+    "rating": 5,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1311031",
+    "tmdbId": 1311031,
+    "title": "قاتل الشياطين: قلعة اللانهاية – الفصل الأول: عودة أكازا",
+    "description": "بينما كان أعضاء فيلق قاتلي الشياطين و\"الهشيرا\" يخضعون لبرنامج تدريب جماعي يُعرف بتدريب الهشيرا استعدادًا للمعركة الحاسمة ضد الشياطين، يظهر موزان كيبوتسوجي في قصر عائلة أوبوياشيكي. ومع تعرّض قائد الفيلق للخطر، يندفع تانجيرو والهشيرا إلى المقر الرئيسي، لكنهم يجدون أنفسهم يسقطون في أعماق مكان غامض بفعل يدي موزان. الوجهة التي سقط فيها تانجيرو ورفاقه ليست سوى معقل الشياطين – قلعة اللانهاية. وهكذا، تبدأ ساحة المعركة النهائية بين فيلق قاتلي الشياطين وقوى الشر في الاشتعال.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/4xdWWzKsO4ua6u7qu6O43HjfthR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "genres": [
+      "أنيميشن",
+      "أكشن",
+      "فانتازيا"
+    ],
+    "rating": 7.7,
+    "releaseDate": "2025",
+    "type": "movie"
+  },
+  {
+    "id": "1110034",
+    "tmdbId": 1110034,
+    "title": "Kraken",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uvoKMovRqtmGj2WnDTWxoV8AuaV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+    "genres": [
+      "رعب",
+      "أكشن",
+      "إثارة وتشويق"
+    ],
+    "rating": 6.5,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "980431",
+    "tmdbId": 980431,
+    "title": "أفاتار: آخر مسخّر هواء – الأصداء والتداعيات",
+    "description": "ينغمس أفتار انغ آخر مسخّر هواء في العالم، في اكتشاف قوة قديمة يمكنها إنقاذ ثقافته من الانقراض. وبمساعدة أصدقائه، ينطلق في رحلة حول العالم للعثور عليها قبل أن تقع في الأيدي الخطأ، حيث قد تهدد بقلب السلام الذي ضحّوا بكل شيء لتحقيقه",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
+    "genres": [
+      "أنيميشن",
+      "أكشن",
+      "مغامرة",
+      "فانتازيا"
+    ],
+    "rating": 7.5,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "200066",
+    "tmdbId": 200066,
+    "title": "Il frullo del passero",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8Q5INiyhPf7QxCIcXFWF8QXLPuN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/py9wIg0AyUmgXvuDeNuP8OgIVFu.jpg",
+    "genres": [
+      "دراما",
+      "رومانسية"
+    ],
+    "rating": 4.2,
+    "releaseDate": "1988",
+    "type": "movie"
+  },
+  {
+    "id": "976912",
+    "tmdbId": 976912,
+    "title": "Graphic Desires",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3BjLdTWRiHc1ISIZMFvToOmghOM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rHnANzYUmV3WZw3n0yWOLiR3pen.jpg",
+    "genres": [
+      "إثارة وتشويق",
+      "جريمة"
+    ],
+    "rating": 7.1,
+    "releaseDate": "2023",
+    "type": "movie"
+  },
+  {
+    "id": "1318447",
+    "tmdbId": 1318447,
+    "title": "المفترس الأقوى",
+    "description": "تحاول امرأة حزينة اختبار أقصى حدود تحمّلها بالخروج في مغامرة منفردة في غابات \"أستراليا\"، لتتورط في لعبة خبيثة مع قاتل ماكر يراها مجرد فريسة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+    "genres": [
+      "أكشن",
+      "إثارة وتشويق"
+    ],
+    "rating": 6.9,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1212763",
+    "tmdbId": 1212763,
+    "title": "احتراق الشر المميت",
+    "description": "بعد وفاة زوجها المفاجئة، تلجأ امرأة إلى أهل زوجها طلباً للعزاء. وبينما يتحولون إلى موتى أحياء واحداً تلو الآخر، تكتشف أن العهود التي قطعتها على نفسها في الحياة تبقى قائمة حتى بعد الموت",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+    "genres": [
+      "رعب",
+      "إثارة وتشويق"
+    ],
+    "rating": 6.8,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1327819",
+    "tmdbId": 1327819,
+    "title": "هوبرز",
+    "description": "تدور قصة الفيلم حول فتاة تُدعى \"مايبل تاناكا\"، الشابة الشغوفة بالحيوانات، التي ترتبط عاطفيًا بمكان طبيعي كانت تزوره مع جدتها. لكن هذا المكان مهدد بسبب مشروع طريق سريع يخطط له العمدة وبينما تحاول إنقاذه، تكتشف تقنية تمكّن البشر من الدخول في أجساد حيوانات آلية والتواصل مع الحياة البرية، فتقرر استخدامها وتتحول إلى قندس.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/aUhnoIdBZYETNvsR4QlZhNYZffw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+    "genres": [
+      "مغامرة",
+      "أنيميشن",
+      "كوميديا",
+      "عائلي",
+      "خيال علمي"
+    ],
+    "rating": 8.2,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "47612",
+    "tmdbId": 47612,
+    "title": "Au Bonheur des Dames",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lcshMRxDFWDtT2W9ImBeyuYnbg4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/o5bRLCNBmWBCBluFlOLUgivdONs.jpg",
+    "genres": [
+      "دراما",
+      "رومانسية"
+    ],
+    "rating": 6.3,
+    "releaseDate": "1930",
+    "type": "movie"
+  },
+  {
+    "id": "1632181",
+    "tmdbId": 1632181,
+    "title": "Socias por accidente",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/sr1Yoj6XLPTWYcbDoBy67xivW4I.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tdY46jlxbcvgMHKlJhSCebahhBh.jpg",
+    "genres": [
+      "كوميديا",
+      "رومانسية"
+    ],
+    "rating": 9,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "TOP 10"
+  },
+  {
+    "id": "1007757",
+    "tmdbId": 1007757,
+    "title": "في كل جسد حكاية",
+    "description": "يتبادل مخلوق ضئيل من سكان الغابة جسده فجأة مع أنثى طير مهيبة، فيتعين عليهما التعاون معًا للنجاة في أكبر مغامرات حياتهما.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/c2m0KshJuJMxVhPaB352U8Tuk5E.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+    "genres": [
+      "مغامرة",
+      "أنيميشن",
+      "عائلي",
+      "فانتازيا"
+    ],
+    "rating": 8.9,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "حلقة جديدة"
+  },
+  {
+    "id": "278",
+    "tmdbId": 278,
+    "title": "الخلاص من شاوشانك",
+    "description": "في أربعينيات القرن الماضي، يُدان المصرفي آندي دوفرين بجريمة قتل زوجته وعشيقها ويُزجّ به في سجن شاوشانك. داخل هذا العالم القاسي، يجد نفسه يعمل لصالح مدير فاسد مستغلًا مهاراته في المحاسبة. ومع مرور السنوات، يفرض آندي حضوره بين السجناء، ويكسب احترامهم — خصوصًا السجين رِد — بفضل ثباته ونزاهته وإصراره على التمسك بالأمل مهما اشتدت الظروف.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/KBUq6m4mWjNymPgNiflyKogSWS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "rating": 8.7,
+    "releaseDate": "1994",
+    "type": "movie",
+    "badge": "دبلجة جديدة"
+  },
+  {
+    "id": "936075",
+    "tmdbId": 936075,
+    "title": "مايكل",
+    "description": "يروي الفيلم قصة حياة مايكل جاكسون بعيداً عن الموسيقى، متتبعاً رحلته منذ اكتشاف موهبته الاستثنائية كقائد لفرقة \"جاكسون فايف\"، وصولاً إلى الفنان الملهم الذي دفع طموحه الإبداعي سعياً حثيثاً ليصبح أعظم فنان استعراضي في العالم. ومن خلال تسليط الضوء على حياته خارج الأضواء وبعض أكثر عروضه شهرة في بدايات مسيرته المنفردة، يمنح الفيلم الجمهور فرصة لمشاهدة مايكل جاكسون كما لم يروه من قبل. من هنا تبدأ قصته.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3azV06hVDVUyxQdJyJYB5POimKv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+    "genres": [
+      "موسيقى",
+      "دراما"
+    ],
+    "rating": 8.7,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "أضيف حديثاً"
+  },
+  {
+    "id": "238",
+    "tmdbId": 238,
+    "title": "العرّاب",
+    "description": "يمتد من عام 1945 إلى عام 1955 ، وهو سرد تاريخي لعائلة جريمة كورليوني الإيطالية الأمريكية الخيالية. عندما ينجو مؤسس عائلة الجريمة المنظمة ، فيتو كورليوني ، بالكاد من محاولة اغتيال ، يتدخل ابنه الأصغر مايكل لرعاية القتلة المحتملين ، ويطلق حملة انتقامية دموية",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9764PSirXx3CWbm2RETYUBuxZZ0.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "rating": 8.7,
+    "releaseDate": "1972",
+    "type": "movie",
+    "badge": "موسم جديد"
+  },
+  {
+    "id": "240",
+    "tmdbId": 240,
+    "title": "العرّاب: الجزء الثاني",
+    "description": "في الجزء الثاني من ملحمة عائلة كورليوني الإجرامية، نتابع قصة فيتو كورليوني في شبابه، حيث نشأ في صقلية ثم انتقل إلى نيويورك خلال العقد الثاني من القرن العشرين.  وفي خمسينيات القرن الماضي، يسعى مايكل كورليوني إلى توسيع نفوذ وأعمال العائلة لتشمل لاس فيغاس وهوليوود وكوبا.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lLAMPTG6H4tXOA8Eb59zUnfGQi5.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "rating": 8.6,
+    "releaseDate": "1974",
+    "type": "movie"
+  },
+  {
+    "id": "424",
+    "tmdbId": 424,
+    "title": "قائمة شندلر",
+    "description": "القصة الحقيقية لكيفية إنقاذ رجل الأعمال أوسكار شندلر أكثر من ألف يهودي من أرواح النازيين أثناء عملهم كعبيد في مصنعه خلال الحرب العالمية الثانية.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/k4YLDFLncG5H0FTrUhVmpMiLLHe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "genres": [
+      "دراما",
+      "تاريخي",
+      "حرب"
+    ],
+    "rating": 8.6,
+    "releaseDate": "1993",
+    "type": "movie"
+  },
+  {
+    "id": "389",
+    "tmdbId": 389,
+    "title": "١٢ رجلاً غاضباً",
+    "description": "انتهى الدفاع والادعاء من تقديم مرافعاتهما، ودخلت هيئة المحلفين إلى غرفة المداولة لتحديد ما إذا كان شاب أمريكي من أصل إسباني مذنبًا أم بريئًا من تهمة قتل والده. ما بدأ كقضية محسومة سرعان ما تحول إلى دراما مصغرة تعكس تحيزات كل محلف وأفكاره المسبقة عن المحاكمة والمتهم وعن بعضهم البعض",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/klS82DRdJg3eK2sj0tOO3OhM3mj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+    "genres": [
+      "دراما"
+    ],
+    "rating": 8.6,
+    "releaseDate": "1957",
+    "type": "movie"
+  },
+  {
+    "id": "129",
+    "tmdbId": 129,
+    "title": "المخطوفة",
+    "description": "تتجول \"شيهيرو\" في عالم سحري تحكمه ساحرة - تقوم بتحويل كل من يعصيها إلى حيوانات.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/o9bDF4M3CQPn8e6PMAhJW5K6ciQ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+    "genres": [
+      "أنيميشن",
+      "عائلي",
+      "فانتازيا"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2001",
+    "type": "movie"
+  },
+  {
+    "id": "155",
+    "tmdbId": 155,
+    "title": "فارس الظلام",
+    "description": "يبدأ باتمان فى محاربة العدو الجديد (الجوكر) الذي يسعى لنشر الذعر والشر في جوثام، وإثبات أن العيش بدون قواعد أفضل، مما يؤدي لصراع بين الاثنين يشترك فيه المفتش جوردن والمدعى العام هارفي دينت وراشيل صديقة بروس وين.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6Z9znq1IxwknrdPbXyr7NJJPhpP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+    "genres": [
+      "أكشن",
+      "جريمة",
+      "إثارة وتشويق"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2008",
+    "type": "movie"
+  },
+  {
+    "id": "1330021",
+    "tmdbId": 1330021,
+    "title": "مخلوقات مشرقة بشكل مبهر",
+    "description": "أثناء العمل ليلًا في معرض للأحياء المائية في بلدة صغيرة، تنسج أرملة روابط عميقة مع أخطبوط ذكي وشاب تائه في هذه الدراما المحركة للمشاعر والمقتبسة من رواية شهيرة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6WMUqcuwbSWPsHRlBj8tCHRq07e.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+    "genres": [
+      "دراما",
+      "غموض"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "19404",
+    "tmdbId": 19404,
+    "title": "صاحب القلب الشجاع سيحوز على العروسة",
+    "description": "الفيلم يدور حول أسرتين هنديتين تعيشان في لندن، تذهب ابنة إحدى الأسرتين (سيمران) في رحلة قبل أن تتزوج برجل لا تعرفه، ويذهب ابن الأسرة الأخرى (راج) في نفس الرحلة، ليلتقيا ببعضهما البعض، ويقع بينهما الحب الحقيقي، ويجد كل منهما حب حياته في الطرف الآخر، ولكن عليهم التغلب على المصاعب الشديدة والقوية التي تحول دون ارتباطهم بعضهما البعض.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+    "genres": [
+      "كوميديا",
+      "دراما",
+      "رومانسية"
+    ],
+    "rating": 8.5,
+    "releaseDate": "1995",
+    "type": "movie"
+  },
+  {
+    "id": "497",
+    "tmdbId": 497,
+    "title": "الميل الأخضر",
+    "description": "حكاية خارقة للطبيعة على ذمة الإعدام في سجن جنوبي ، حيث يمتلك العملاق اللطيف جون كوفي القوة الغامضة لعلاج أمراض الناس. عندما يتعرف حارس المبنى الرئيسي ، بول إدجكومب ، على هدية كوفي المعجزة ، يحاول يائسًا المساعدة في تجنب إعدام الرجل المدان.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/vAHuvaUC885P78BNS3BMu9qM7ve.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+    "genres": [
+      "فانتازيا",
+      "دراما",
+      "جريمة"
+    ],
+    "rating": 8.5,
+    "releaseDate": "1999",
+    "type": "movie"
+  },
+  {
+    "id": "1383731",
+    "tmdbId": 1383731,
+    "title": "الحامية",
+    "description": "تدور القصة حول (نيكي)، بطلة حرب سابقة تنقلب حياتها الهادئة رأسًا على عقب بعد اختطاف ابنتها. وبينما تنغمس في عالم الجريمة السفلي وتصبح مطاردة من الشرطة والجيش، تضطر لخوض معركة شرسة ضد الزمن وكل من يعترض طريقها لإنقاذ طفلتها.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bXX9n2tNM9sInhmiJShizUFJ16l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+    "genres": [
+      "أكشن",
+      "إثارة وتشويق"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2026",
+    "type": "movie"
+  },
+  {
+    "id": "1181678",
+    "tmdbId": 1181678,
+    "title": "¿Quieres ser mi hijo?",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6PQJsmuvSMZQMmlJfTpjIkrizUh.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xyWKrni8WrYzqn7ztvI5nIY0h62.jpg",
+    "genres": [
+      "كوميديا",
+      "رومانسية"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2023",
+    "type": "movie"
+  },
+  {
+    "id": "122",
+    "tmdbId": 122,
+    "title": "سيد الخواتم: عودة الملك",
+    "description": "تم الكشف عن أراغورن باعتباره وريث الملوك القدامى حيث يكافح هو وقاندالف والأعضاء الآخرون في الشركة المكسورة لإنقاذ جوندور من قوات سورون. في هذه الأثناء ، يقترب فرودو وسام من الخاتم إلى قلب موردور ، عالم اللورد المظلم.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xMMnQwgVbz5tbbKN6rxHxST9613.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "genres": [
+      "مغامرة",
+      "فانتازيا",
+      "أكشن"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2003",
+    "type": "movie"
+  },
+  {
+    "id": "496243",
+    "tmdbId": 496243,
+    "title": "طفيلي",
+    "description": "تدور أحداث الفيلم حول عائلة عاطلة عن العمل، تُقيم داخل شقة فقيرة، تتغير حياتهم كُليًا عندما يلتحق الابن بوظيفة مدرس لابنة عائلة ثرية، وسرعان ما يصير جميع أفراد اﻷسرة الفقيرة عاملين لدى اﻷسرة الثرية إلى أن يتورطوا في حادث غير متوقع.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yWAshnqG2WXP25FYZJmC2hfe2LH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hiKmpZMGZsrkA3cdce8a7Dpos1j.jpg",
+    "genres": [
+      "كوميديا",
+      "إثارة وتشويق",
+      "دراما"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2019",
+    "type": "movie"
+  },
+  {
+    "id": "157336",
+    "tmdbId": 157336,
+    "title": "بين النجوم",
+    "description": "تدور الأحداث حول مجموعة من المستكشفين يستفيدون من ثقب دودي اكتُشف حديثًا لتجاوز حدود السفر البشري عبر الفضاء، وعبور المسافات الشاسعة التي تفصل بين العوالم البعيدة، في رحلة \"بين النجوم\" قد تغيّر مصير البشرية إلى الأبد.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/rR8bjK9dOXXH9H8AdpfPTlRx8Fy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+    "genres": [
+      "مغامرة",
+      "دراما",
+      "خيال علمي"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2014",
+    "type": "movie"
+  },
+  {
+    "id": "372058",
+    "tmdbId": 372058,
+    "title": "اسمك",
+    "description": "يجد اثنان من الغرباء أنفسهم مرتبطين بطريقة غريبة. عندما يتشكل اتصال ، هل ستكون المسافة هي الشيء الوحيد الذي يجعلهم منفصلين؟",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/yLglTwyFOUZt5fNKm0PWL1PK5gm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+    "genres": [
+      "أنيميشن",
+      "رومانسية",
+      "دراما"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2016",
+    "type": "movie"
+  },
+  {
+    "id": "94997",
+    "tmdbId": 94997,
+    "title": "آل التنين",
+    "description": "تدور الأحداث قبل 200 عام من أحداث مسلسل صراع العروش.، حيث سيركز على تفاصيل عائلة \"آل تارغيريان\" ولمحات هامة في تاريخ العائلة التي حكمت ويستروس منذ زمن بعيد، وصولًا إلى رقصة التنانين والصراعات الداخلية في العائلة التي دمرت كل شيء وهددت بانقراض التنانين للأبد.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3cV7NLkN8WY5LECzLxI73PXE5Oq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "دراما",
+      "أكشن ومغامرة"
+    ],
+    "rating": 8.4,
+    "releaseDate": "2022",
+    "type": "tv",
+    "badge": "TOP 10"
+  },
+  {
+    "id": "125988",
+    "tmdbId": 125988,
+    "title": "Silo",
+    "description": "في مستقبل خرب وسامّ، يعيش آلاف الناس في صومعة ضخمة تحت الأرض. بعد أن يخرق مأمورهم قانونها الأساسي ويموت المواطنون بطرق غامضة، تبدأ المهندسة \"جولييت\" بكشف أسرار صادمة لتعرف الحقيقة عن الصومعة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "rating": 8.2,
+    "releaseDate": "2023",
+    "type": "tv",
+    "badge": "حلقة جديدة"
+  },
+  {
+    "id": "27181",
+    "tmdbId": 27181,
+    "title": "Rote Rosen",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/swL2qUjGrChFyj14ExwA0pwWtzv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qZ1odCAlNZhUIeLXZXU06JxRqjo.jpg",
+    "genres": [
+      "دراما"
+    ],
+    "rating": 3,
+    "releaseDate": "2006",
+    "type": "tv",
+    "badge": "دبلجة جديدة"
+  },
+  {
+    "id": "124364",
+    "tmdbId": 124364,
+    "title": "من",
+    "description": "في إطار من الرعب والخيال العلمي، يتم كشف الغموض عن مدينة في وسط الولايات المتحدة تسجن كل من يدخلها. بينما يكافح السكان للحفاظ على حياتهم الطبيعية والبحث عن مخرج، ويجب عليهم أيضًا البقاء على قيد الحياة من تهديدات الغابة المحيطة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/f3Fxwsq7WzrhyVuqY34hgMOL7Db.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+    "genres": [
+      "غموض",
+      "دراما",
+      "خيال علمي وفانتازيا"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2022",
+    "type": "tv",
+    "badge": "أضيف حديثاً"
+  },
+  {
+    "id": "2734",
+    "tmdbId": 2734,
+    "title": "القانون والنظام: وحدة الضحايا الخاصة",
+    "description": "في نظام العدالة الجنائية، تعتبر الجرائم الجنسية شنيعة بشكل خاص. في مدينة نيويورك، المحققون المتخصصون الذين يحققون في هذه الجنايات الشريرة هم أعضاء فريق من النخبة يعرف باسم وحدة الضحايا الخاصة. هذه قصصهم.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uzfP3ILGEXhSbhfCOsgCDZW7ojk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+    "genres": [
+      "جريمة",
+      "دراما",
+      "غموض"
+    ],
+    "rating": 8,
+    "releaseDate": "1999",
+    "type": "tv",
+    "badge": "موسم جديد"
+  },
+  {
+    "id": "5920",
+    "tmdbId": 5920,
+    "title": "الوسيط الروحي",
+    "description": "يستخدم باتريك جين، وهو وسيط نفسي سابق للمشاهير، مهاراته الحادة في الملاحظة والخبرة في \"قراءة\" الناس لحل الجرائم الخطيرة مع مكتب التحقيقات في كاليفورنيا.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mMC4qAitti5tHnQ0w8mc3HRC7qk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+    "genres": [
+      "جريمة",
+      "دراما",
+      "غموض"
+    ],
+    "rating": 8.4,
+    "releaseDate": "2008",
+    "type": "tv"
+  },
+  {
+    "id": "79744",
+    "tmdbId": 79744,
+    "title": "المبتدئ",
+    "description": "يحاول (جون نولان) السير في بداية جديدة في حياته بعد تعرضه لحادثة كبيرة، حيث يسعى للانضمام إلى شرطة لوس أنجلوس لتحقيق أحلامه، ولكنه يعاني من التجاهل من الجميع ظنًا منهم أنه يعاني من أزمة منتصف العمر.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/t3vSMQWjQkEXCE9f912esWAW5vF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+    "genres": [
+      "جريمة",
+      "دراما",
+      "كوميديا"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2018",
+    "type": "tv"
+  },
+  {
+    "id": "233643",
+    "tmdbId": 233643,
+    "title": "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ipqu76qqHiVB2vlK2gGZNwF9SwX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5IBSPGPAEFEkEJo4leqvpq0RcKf.jpg",
+    "genres": [
+      "أنيميشن"
+    ],
+    "rating": 6.2,
+    "releaseDate": "2023",
+    "type": "tv"
+  },
+  {
+    "id": "94664",
+    "tmdbId": 94664,
+    "title": "موشوكو تينسي",
+    "description": "عندما تدهس شاحنة شابًا يبلغ من العمر 34 سنة، لا تنتهي قصته هناك. بل يعاد بعثه في عالم جديد كرضيع، ينتهز \"رودي\" كلّ فرصة ليعيش الحياة التي لطالما أرادها. مدعومًا بأصدقاء جُدد، وبعض القدرات السحرية المكتسبة حديثًا، والشجاعة لفعل الأشياء التي كان يحلم بها دائمًا، ينطلق في مغامرة ملحمية، مع تذكره لكل تجربته السابقة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8RukSzEsRnNIPIOQflg5cBwx5f2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "أنيميشن",
+      "خيال علمي وفانتازيا"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2021",
+    "type": "tv"
+  },
+  {
+    "id": "549",
+    "tmdbId": 549,
+    "title": "القانون والنظام",
+    "description": "في حالات مستمدة من الأحداث الراهنة، يقوم رجال الشرطة بالتحقيق في جرائم خطيرة وغالباً ما تكون قاتلة، حيث يقومون بتحليل الأدلة واستجواب المشتبه بهم حتى يتم اعتقال شخص ما. ثم يقوم مكتب الادعاء ببناء قضية لإدانة الجاني من خلال إثبات إدانته بما يفوق الشك العادل. يعمل هذان الفريقان المتخصصان معًا على التنقل في جميع جوانب النظام القضائي الجنائي المعقد لجعل نيويورك مكانًا أكثر أمانًا.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3BSTL8BrYQFCcBzodFA1rJlKU93.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+    "genres": [
+      "جريمة",
+      "دراما"
+    ],
+    "rating": 7.3,
+    "releaseDate": "1990",
+    "type": "tv"
+  },
+  {
+    "id": "95897",
+    "tmdbId": 95897,
+    "title": "الفيضان",
+    "description": "\"كازوشي سودو\" طالب جامعي يزورونه صديقات طفولته، الأختين \"أياني\" و \"كوتوني شيراكاوا\". ولما تكتشف \"أياني\" إن كازوشي مو بس نسى يشتري لها الحلى (البودينغ)، لكنه بعد قاعد يستخدم اللوشن الخاص فيها وهو يتروش، تقرر تنتقم وتطب عليه في الحمام هي وأختها \"كوتوني\". والسؤال هنا: هل بيقدر كازوشي يمسك نفسه وما يتأثر بوجودهم؟",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4NRBKA8qVzCvuD3WeLieiLGmIjm.jpg",
+    "genres": [
+      "أنيميشن"
+    ],
+    "rating": 7.4,
+    "releaseDate": "2020",
+    "type": "tv"
+  },
+  {
+    "id": "1622",
+    "tmdbId": 1622,
+    "title": "خارق للطبيعة",
+    "description": "منذ الصغر، خسر سام ودين وينشستر أمهما لقوة خارقة غامضة وشيطانية. وفي وقت لاحق، رباهم والدهم ليكونوا جنودا. علمهم عن الشر الخارق الذي يعيش في الزوايا المظلمة وعلى الطرق الخلفية في أمريكا ... وعلمهم كيف يقتلونها. الآن ، يخترق الأخوة وينتشيستر البلاد في  تشيفي إمبالا موديل 67، ويقاتلون كل نوع من التهديدات الخارقة التي يواجهونها على طول الطريق.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
+    "genres": [
+      "دراما",
+      "غموض",
+      "خيال علمي وفانتازيا"
+    ],
+    "rating": 8.3,
+    "releaseDate": "2005",
+    "type": "tv"
+  },
+  {
+    "id": "1416",
+    "tmdbId": 1416,
+    "title": "تشريح غراي",
+    "description": "الحياة الشخصية والمهنية لمجموعة من الأطباء في مستشفى - قراي سلون - في سياتل، الولايات المتحدة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+    "genres": [
+      "دراما"
+    ],
+    "rating": 8.2,
+    "releaseDate": "2005",
+    "type": "tv"
+  },
+  {
+    "id": "94722",
+    "tmdbId": 94722,
+    "title": "Tagesschau",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+    "genres": [],
+    "rating": 6.7,
+    "releaseDate": "1952",
+    "type": "tv"
+  },
+  {
+    "id": "204269",
+    "tmdbId": 204269,
+    "title": "森のくまさん、冬眠中。",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/mGMO3bW9ByTj4xkqCaBQyti4QHm.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gH3HCoEBuiLqzZii0sOMfMyXSR8.jpg",
+    "genres": [
+      "أنيميشن"
+    ],
+    "rating": 5.7,
+    "releaseDate": "2022",
+    "type": "tv"
+  },
+  {
+    "id": "322055",
+    "tmdbId": 322055,
+    "title": "검사실의 제안",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/fxEfx2Tt98l4oW2KI0GU3Q0qgnB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
+    "genres": [
+      "غموض",
+      "جريمة",
+      "دراما"
+    ],
+    "rating": 5.8,
+    "releaseDate": "2026",
+    "type": "tv"
+  },
+  {
+    "id": "100780",
+    "tmdbId": 100780,
+    "title": "Jamai Raja",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/nO0Fuq4xdraqgHVSXk1pEPq9JM2.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/aSxmk7crbJKSwRXagAN1uvvc80i.jpg",
+    "genres": [
+      "دراما"
+    ],
+    "rating": 5.5,
+    "releaseDate": "2014",
+    "type": "tv"
+  },
+  {
+    "id": "1399",
+    "tmdbId": 1399,
+    "title": "صراع العروش",
+    "description": "تتقاتل سبع عائلات نبيلة من أجل السيطرة على أرض - ويستيروس - الأسطورية. الاحتكاك بين العوائل يؤدي إلى حرب واسعة النطاق.  في حين يستيقظ الشر القديم في أقصى الشمال. وفي خضم الحرب، نظام عسكري مهمَل - حرس الليل - هم كل ما يقف بين عالم الإنسان والأهوال الجليدية.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tzjMPNZdQSDXI9p9DjgwYxScxI9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "دراما",
+      "أكشن ومغامرة"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2011",
+    "type": "tv"
+  },
+  {
+    "id": "60625",
+    "tmdbId": 60625,
+    "title": "ريك ومورتي",
+    "description": "تتمحور قصة المسلسل حول مغامرات عائلة سميث المكونة من ريك سانشيز، عالم عبقري مجنون ومدمن كحول، مورتي سميث حفيد ريك المراهق ذو الأربعة عشر عام، سمر سميث؛ شقيقة مورتي ذو السابعة عشر، بيث سميث؛ ابنة ريك والدة مورتي وسمر، طبيبة حيوانات جراحية؛ جيري سميث، زوج بيث، رجل بسيط مهزوز الثقة غالباً ما يختلف مع ريك.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hzaQf6KjsWAO2jW1ixcTG7XClYp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+    "genres": [
+      "أنيميشن",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "أكشن ومغامرة"
+    ],
+    "rating": 8.7,
+    "releaseDate": "2013",
+    "type": "tv"
+  },
+  {
+    "id": "4614",
+    "tmdbId": 4614,
+    "title": "إن سي آي أس (خدمة التحقيقات الجنائية البحرية)",
+    "description": "تتناول حلقات المسلسل قصة العديد من المخاطر التي يتعرض لها العملاء السريين التابعين لمكتب العمليات الخاصة، والذي يتوجب عليهم التخفي الدائم في عملهم عن طريق استخدام هويات مزيفة للإيقاع بالخارجين عن القانون والذين يمثلون خطرا وتهديدا كبيرا على الأمن القومي.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6WEjJ0AE8MjrZc92k1mrrvrw5Un.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
+    "genres": [
+      "جريمة",
+      "دراما",
+      "أكشن ومغامرة"
+    ],
+    "rating": 7.6,
+    "releaseDate": "2003",
+    "type": "tv"
+  },
+  {
+    "id": "1434",
+    "tmdbId": 1434,
+    "title": "رجل العائلة",
+    "description": "عائلة قريفن المُختلة. تتكون من الاب بيتر المستهتر وزوجته لويس التي تعاني مع اطفالها الثلاث. الطفل ستيوي - عبقري و سادي عازم على قتل أمه والسيطرة على العالم، الابنه ميق - أكثر الفتيات غير شعبية في المدينة، الابن كريس - ليس ذكيا ابدا لكن لديه شغف بالأفلام. و العضو الأخير في العائلة هو برايان - كلب يتحدث وأكثر من مجرد حيوان أليف.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9UMBs5ijkwlcnEdZijDvpFV59ti.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+    "genres": [
+      "أنيميشن",
+      "كوميديا"
+    ],
+    "rating": 7.4,
+    "releaseDate": "1999",
+    "type": "tv",
+    "badge": "TOP 10"
+  },
+  {
+    "id": "296206",
+    "tmdbId": 296206,
+    "title": "عودة العميل كيم",
+    "description": "عندما تُختطَف ابنة شخص يبدو عاديًا، يستعين بمهاراته القديمة في العمليات السرية للعثور عليها، ليجد نفسه في مواجهة أخطار لم يكن يتوقعها.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gpGxHHa1rCiTBGGJrXWJ0vJbqli.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "جريمة",
+      "دراما"
+    ],
+    "rating": 7.2,
+    "releaseDate": "2026",
+    "type": "tv",
+    "badge": "حلقة جديدة"
+  },
+  {
+    "id": "206559",
+    "tmdbId": 206559,
+    "title": "Binnelanders",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3bzECfllho8PphdYujLUIuhncJD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+    "genres": [],
+    "rating": 5.5,
+    "releaseDate": "2005",
+    "type": "tv",
+    "badge": "دبلجة جديدة"
+  },
+  {
+    "id": "4057",
+    "tmdbId": 4057,
+    "title": "عقول اجرامية",
+    "description": "يقوم نخبة من مكتب التحقيقات الفيدرالي (FBI) بتحليل العقول الإجرامية الأكثر التواءا في البلاد، بتوقع تحركاتهم التالية قبل أن يضربون مرة أخرى.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+    "genres": [
+      "جريمة",
+      "دراما",
+      "غموض"
+    ],
+    "rating": 8.3,
+    "releaseDate": "2005",
+    "type": "tv",
+    "badge": "أضيف حديثاً"
+  },
+  {
+    "id": "243206",
+    "tmdbId": 243206,
+    "title": "प्रीतम और पेड्रो",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/lC0MtWrnC0SZICFHazagIfVKy0x.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/eAXSlqAJwpdsZ59G10lao9OJ4SG.jpg",
+    "genres": [
+      "جريمة",
+      "دراما",
+      "غموض",
+      "كوميديا"
+    ],
+    "rating": 8.6,
+    "releaseDate": "2026",
+    "type": "tv",
+    "badge": "موسم جديد"
+  },
+  {
+    "id": "65334",
+    "tmdbId": 65334,
+    "title": "ميراكيولوس: الدعسوقة و القط الأسود",
+    "description": "عندما تقع باريس في محنة، تتحول \"مارينات\" إلى \"الدعسوقة\" دون أن تدري أن حبيبها المدرسي \"إدريان\" هو \"القط الأسود\"، بطل خارق آخر ينقذ المدينة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/kT3ANL1tE8m0SjRsxbIJhCwc1wo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "أنيميشن",
+      "أطفال"
+    ],
+    "rating": 8.1,
+    "releaseDate": "2015",
+    "type": "tv"
+  },
+  {
+    "id": "456",
+    "tmdbId": 456,
+    "title": "آل سيمبسون",
+    "description": "مغامرات ساخرة لعائلة متوسطة الدخل في مدينة سبرينقفيلدز الأمريكية  (للكبار فقط).",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/voLbSUAVu1RfZWx0qeTFqVAixIO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+    "genres": [
+      "عائلي",
+      "أنيميشن",
+      "كوميديا"
+    ],
+    "rating": 8,
+    "releaseDate": "1989",
+    "type": "tv"
+  },
+  {
+    "id": "65942",
+    "tmdbId": 65942,
+    "title": "الحياة في عالم مختلف من الصفر",
+    "description": "القصة تتحدث عن سوبارو ناتسوكي و هو طالب عادي فُقد في العالم البديل و تم إنقاذه من قِبل فتاة جميلة ذات شعر فضي، بقي سوبارو بالقرب منها كي يرد لها الجميل لكن مصيرها ثقيل بشكل أكبر من أن يتخيله بطلنا، يقوم الأعداء بمهاجمتهما و يتقلانهما، بعدها يكتشف بطلنا أن لديه القدرة على العودة من الموت إلى الوقت الذي قدم فيه إلى هذا العالم أول مرة، لكنه الوحيد الذي يتذكر ما حدث في ذلك الحين.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/x221LECWojgDTnXhWsaMIVmgM5h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+    "genres": [
+      "أنيميشن",
+      "دراما",
+      "غموض",
+      "أكشن ومغامرة",
+      "خيال علمي وفانتازيا"
+    ],
+    "rating": 8,
+    "releaseDate": "2016",
+    "type": "tv"
+  },
+  {
+    "id": "51025",
+    "tmdbId": 51025,
+    "title": "Paradise Hotel",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ycSBcACecVR0zSnP2ZF83k5f7he.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/nun8Ssmni886Ib4v7chgQbswDfl.jpg",
+    "genres": [],
+    "rating": 5.6,
+    "releaseDate": "2005",
+    "type": "tv"
+  },
+  {
+    "id": "250596",
+    "tmdbId": 250596,
+    "title": "僕の妻は感情がない",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/muNFUKudbjB8iTZhLfhifU4EogY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cQGq1oRSORK1xHnAvli4qXOBOTJ.jpg",
+    "genres": [
+      "أنيميشن",
+      "خيال علمي وفانتازيا",
+      "دراما",
+      "كوميديا"
+    ],
+    "rating": 6.6,
+    "releaseDate": "2024",
+    "type": "tv"
+  },
+  {
+    "id": "70998",
+    "tmdbId": 70998,
+    "title": "僧侶と交わる色欲の夜に…",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4kQiFnWtwndtCyKMszVJNPEE1kY.jpg",
+    "genres": [
+      "أنيميشن",
+      "دراما"
+    ],
+    "rating": 5.3,
+    "releaseDate": "2017",
+    "type": "tv"
+  },
+  {
+    "id": "63770",
+    "tmdbId": 63770,
+    "title": "The Late Show with Stephen Colbert",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9jkThAGYj2yp8jsS6Nriy5mzKFT.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gMMnf8VRg3Z98WaFmOLr9Jk8pIs.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 6.1,
+    "releaseDate": "2015",
+    "type": "tv"
+  },
+  {
+    "id": "22980",
+    "tmdbId": 22980,
+    "title": "Watch What Happens Live with Andy Cohen",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 5,
+    "releaseDate": "2009",
+    "type": "tv"
+  },
+  {
+    "id": "119822",
+    "tmdbId": 119822,
+    "title": "Algo personal",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ldh8lOM395dm8NpXtTNfwpUNOe3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7T87uDs5eJ7NBiPp3wAA20IFIhu.jpg",
+    "genres": [],
+    "rating": 2,
+    "releaseDate": "2015",
+    "type": "tv"
+  },
+  {
+    "id": "1431",
+    "tmdbId": 1431,
+    "title": "سي اس آي: التحقيق في مسرح الجريمة",
+    "description": "في إطار من الجريمة والغموض، تدور الأحداث حول مجموعة من خبراء الطب الشرعى التابعين للشرطة في وﻻية لوس أنجلوس الأمريكية، الذين يقومون بالتحقيق فى القضايا الغامضة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+    "genres": [
+      "جريمة",
+      "دراما",
+      "غموض"
+    ],
+    "rating": 7.6,
+    "releaseDate": "2000",
+    "type": "tv"
+  },
+  {
+    "id": "63247",
+    "tmdbId": 63247,
+    "title": "العَالَمُ الغَربِي",
+    "description": "ملحمة مظلمة حول الوعي الاصطناعي وتطور الخطيئة. تقع أحداثه عند تقاطع المستقبل القريب والماضي المعاد تخيله ، وتستكشف عالما يمكن الانغماس فيه بكل شهوة بشرية، نبيلة أم فاسدة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qRnaQNbSrtdlvMR1ZAXnWbsZRmD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rX5hvSRB2k4YoIvRg6Zky52rWk0.jpg",
+    "genres": [
+      "خيال علمي وفانتازيا",
+      "غرب أمريكي"
+    ],
+    "rating": 8,
+    "releaseDate": "2016",
+    "type": "tv"
+  },
+  {
+    "id": "2261",
+    "tmdbId": 2261,
+    "title": "The Tonight Show Starring Johnny Carson",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+    "genres": [],
+    "rating": 7.5,
+    "releaseDate": "1962",
+    "type": "tv"
+  },
+  {
+    "id": "278624",
+    "tmdbId": 278624,
+    "title": "Lucky",
+    "description": "عندما تفشل عملية سرقة بملايين الدولارات، تُجبر المحتالة \"لاكي\"،، على الفرار. وبين الهرب من الفيدراليين وزعيم جريمة لا يرحم، تقاتل \"لاكي\" للنجاة بحياتها ولإيجاد مخرج.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg",
+    "genres": [
+      "دراما",
+      "جريمة"
+    ],
+    "rating": 6.6,
+    "releaseDate": "2026",
+    "type": "tv"
+  },
+  {
+    "id": "59941",
+    "tmdbId": 59941,
+    "title": "The Tonight Show Starring Jimmy Fallon",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/1N4o5PmmqhlVDrcdJ2RlCFWbLGX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7VO04TtL1jIT6XOPs9u4jdB8KaB.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 5.8,
+    "releaseDate": "2014",
+    "type": "tv"
+  },
+  {
+    "id": "226687",
+    "tmdbId": 226687,
+    "title": "All Elite Wrestling: Collision",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/85ZKXqPiZHjPPxeoR26dyodqHVZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6fbzFk1fTE8I8UEYn9hG9dUo8jh.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "دراما"
+    ],
+    "rating": 7.7,
+    "releaseDate": "2023",
+    "type": "tv"
+  },
+  {
+    "id": "1003596",
+    "tmdbId": 1003596,
+    "title": "المنتقمون: يوم القيامة",
+    "description": "أبطال محبوبون من ثلاثة أكوان مختلفة يُدفعون نحو صدام مميت، ويواجهون تهديدًا مرعبًا قد يمحو وجودهم بالكامل… شيء يفوق كل ما عرفوه من قبل.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/l86te96MjOIJ4Lup2lgvs7D59IF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6KDDoTq8Vq3HuQHULzuvPiCJbMI.jpg",
+    "genres": [
+      "خيال علمي",
+      "أكشن",
+      "مغامرة"
+    ],
+    "rating": 7.5,
+    "releaseDate": "2026",
+    "type": "movie",
+    "badge": "حلقة جديدة"
+  },
+  {
+    "id": "279323",
+    "tmdbId": 279323,
+    "title": "القصر الشرقي",
+    "description": "يدخل خبير في عالم الأرواح وشابّة من البلاط تستطيع سماع أصوات الموتى إلى \"القصر الشرقي\" بأمر من الملك... فهل يتمكّنان من كشف أسراره المظلمة؟",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gLMzMmN9sfxggkA3Xamuti7GjGK.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2rAkYlsLcpMgLD6cycKajVX7C0O.jpg",
+    "genres": [
+      "غموض",
+      "أكشن ومغامرة",
+      "خيال علمي وفانتازيا",
+      "دراما"
+    ],
+    "rating": 8.1,
+    "releaseDate": "2026",
+    "type": "tv"
+  },
+  {
+    "id": "37854",
+    "tmdbId": 37854,
+    "title": "ون بيس",
+    "description": "قبل سنوات عديدة، تم إعدام ملك القراصنة - جول دي روجر - تاركا وراءه كومة ضخمة من الكنوز و الون بيس - القطعه الواحده -  الشهيرة. من يجدها سيكون اسمه ملك القراصنة الجديد. مونكي دي لوفي، وهو صبي الذي استهلك واحدة من فواكه الشيطان، يعتقد أنه سوف يسير على خطى القرصان شانكس، ويجد الون بيس. محاط بسرب من المقاتلين الماهرين واللصوص على طول الطريق. يحضر مونكي دي لوفي حفنة من طاقمه يتبعونه، رورونوا زورو، نامي، اوسوب، سانجي، تشوبر، نيكو روبن، فرانكي وبروك. سوف يفعلون أي شيء للحصول على الون بيس!",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zftx59xeJOJtsmRdwqo4rn6zNpj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "كوميديا",
+      "أنيميشن"
+    ],
+    "rating": 8.7,
+    "releaseDate": "1999",
+    "type": "tv"
+  },
+  {
+    "id": "33238",
+    "tmdbId": 33238,
+    "title": "الرجل الجاري",
+    "description": "هو برنامج منوعات كوري جنوبي يقوم فيه المقدمون والضيوف (وهم غالبا من المشاهير في كوريا الجنوبية) بإكمال مهام تقع في عدة معالم للفوز بالسباق، بعض المرات يكون السباق فردي أو مع فرق أو ثنائيات\n\nكما أن فكرته تعتمد على الألعاب الترفيهية، وأيضا اللعبة الأساسية في هذا البرنامج هي لعبة \"مهمة السباق\" وهي عبارة عن \" توجد بطاقة أسماء ملتصقة وراء ظهر كل عضو. ويجب على الأعضاء المنافسة على خلع بطاقات بعضهم البعض حتى الشخص الأخير الذي لم تنزع بطاقة إسمه هو الفائز \"لكن بالطبع تتغير مهمة السباق من مرة إلى أخرى ويتغير مفهومها.\n\nوكان مثير للإهتمام أكثر بعد عودة مذيع كوريا الأول \"يو جاي سوك\" بعد تركه لبرنامج \" نزهة العائلة Family Outing \" في 2010. ومنذ ذلك الحين البرنامج حصل على لقب \"أشهر برنامج منوعات\"",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/25J6ufUoyvRVd8M6SpIYse0Ph9P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/wsHj4oHQJoe7DMYaqNFwVoyLiAh.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 8.2,
+    "releaseDate": "2010",
+    "type": "tv",
+    "badge": "أضيف حديثاً"
+  },
+  {
+    "id": "276161",
+    "tmdbId": 276161,
+    "title": "سنلقّنكم درسًا",
+    "description": "عندما يتلاشى الاحترام من المدارس، يتدخل محققون غير تقليديين لإعادة الأمور إلى نصابها... عبر دروس قاسية وصارمة لن تجدها في الكتب المدرسية.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3dLlv5bsYRQbsB0hMyP1AlrYUKv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "دراما",
+      "كوميديا"
+    ],
+    "rating": 9.5,
+    "releaseDate": "2026",
+    "type": "tv",
+    "badge": "موسم جديد"
+  },
+  {
+    "id": "70672",
+    "tmdbId": 70672,
+    "title": "رجال في مهمة",
+    "description": "يلعب المشاهير الذكور دورا خياليا كطلاب في المدارس الثانوية، ويرحبون بطلاب نقل النجوم كل أسبوع وينخرطون في معارك من الفكاهة البارعة والتهريج.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/zak7mqMxJGnnWplSdbjDtV7bg2Y.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/a8a8z4aJr40zYgRMfmSESppX2eO.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 7.4,
+    "releaseDate": "2015",
+    "type": "tv"
+  },
+  {
+    "id": "78648",
+    "tmdbId": 78648,
+    "title": "놀라운 토요일",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/pnibkuL74C33GoKLTXAmF4nl3a6.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/pNdUVPm6RwvG9Ycd2cuYpLbM7lk.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 7.6,
+    "releaseDate": "2018",
+    "type": "tv"
+  },
+  {
+    "id": "200709",
+    "tmdbId": 200709,
+    "title": "البطل الضعيف - الصف ١",
+    "description": "طالب نموذجي ، يحتل المرتبة الأولى في مدرسته الثانوية.  جسديًا ، يبدو  كصبي ضعيف ، ولكن باستخدام ذكائه وأدواته وعلم النفس ، يحارب العنف الذي يحدث داخل مدرسته وخارجها.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/A3YM7LilUhEh19A4RI5QkXrwLXP.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "دراما"
+    ],
+    "rating": 8.7,
+    "releaseDate": "2022",
+    "type": "tv"
+  },
+  {
+    "id": "65282",
+    "tmdbId": 65282,
+    "title": "나 혼자 산다",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/bq3Emv3pJLUyHvwGqiAXRwJvAmL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sztoil0XfQ0cSHy4PXmYW6uAdfQ.jpg",
+    "genres": [],
+    "rating": 7.5,
+    "releaseDate": "2013",
+    "type": "tv"
+  },
+  {
+    "id": "5092",
+    "tmdbId": 5092,
+    "title": "무한도전",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/fpXfEfcZu5uDTOKqjwXSGgrL4iY.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/s2qJb1FLwp1Mse9lY08JqgMp0kw.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 7.7,
+    "releaseDate": "2005",
+    "type": "tv"
+  },
+  {
+    "id": "93405",
+    "tmdbId": 93405,
+    "title": "لعبة الحبّار",
+    "description": "يقبل مئات اللاعبين الذين يعانون من ضائقة مالية دعوة غريبة للتنافس في ألعاب للأطفال، حيث تنتظرهم جائزة مُغرية تصحبها مخاطر كبيرة ومميتة",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/uI8ij7csb43a4DblctmTnzjWLAi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/2meX1nMdScFOoV4370rqHWKmXhY.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "غموض",
+      "دراما"
+    ],
+    "rating": 7.9,
+    "releaseDate": "2021",
+    "type": "tv"
+  },
+  {
+    "id": "18495",
+    "tmdbId": 18495,
+    "title": "논스톱",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/elXJzhz1dM0lO7fK2BfO2pVtC7l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6HBi1vfb70PfeTx78BKv2md42mm.jpg",
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "rating": 5.3,
+    "releaseDate": "2000",
+    "type": "tv"
+  },
+  {
+    "id": "301412",
+    "tmdbId": 301412,
+    "title": "أحلم بك",
+    "description": "يتبع قصة المسلسل وو سو بين، الذي يعود ليكتشف نفسه من جديد، وجو يي جاي، التي كانت في السابق شجاعًة وطموحة، لكنها أصبحت أكثر حذرًا بسبب تجارب الحياة.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/6Xo53LDGp8QYc8gqEFyoAvnwciX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/5AhL7NKa8UC6QOyzKiDohUM9VYT.jpg",
+    "genres": [
+      "دراما",
+      "كوميديا"
+    ],
+    "rating": 7.9,
+    "releaseDate": "2026",
+    "type": "tv"
+  },
+  {
+    "id": "65270",
+    "tmdbId": 65270,
+    "title": "라디오스타",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+    "genres": [],
+    "rating": 5.4,
+    "releaseDate": "2007",
+    "type": "tv"
+  },
+  {
+    "id": "300727",
+    "tmdbId": 300727,
+    "title": "مهمة في مجمع سكني",
+    "description": "القصهلحاجته الماسة إلى المال، يتعاون زعيم عصابة سابق مع محامية طموحة لسرقة صندوق الاحتياطي الخاص بمجمع سكني... ولكنهما يكشفان عن عمليات فسادٍ مستشرٍ.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/eTaD4VV0eMHlOQg1ENDS09uZ2Ln.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+    "genres": [
+      "دراما",
+      "كوميديا",
+      "جريمة"
+    ],
+    "rating": 6.5,
+    "releaseDate": "2026",
+    "type": "tv"
+  },
+  {
+    "id": "30801",
+    "tmdbId": 30801,
+    "title": "1박 2일",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/44CeavkZLqW9Z7SkOffxLNJtAv9.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/sDoSavurRsckAldstpCvUs30A6P.jpg",
+    "genres": [
+      "كوميديا"
+    ],
+    "rating": 6.7,
+    "releaseDate": "2007",
+    "type": "tv"
+  },
+  {
+    "id": "71026",
+    "tmdbId": 71026,
+    "title": "أجنحة الإنقاذ",
+    "description": "طائرة نفاثة تُدعى جيت تجوب العالم لتوصيل الطرود للأطفال وحل المشاكل مع أصدقائه من فريق سوبر وينجز.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/gvHwUZOivDtwCUB48Wdnx5BO2Vp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vwgC68MFTgrLaTBaXFnsVAb6y1W.jpg",
+    "genres": [
+      "أنيميشن",
+      "أطفال"
+    ],
+    "rating": 6.4,
+    "releaseDate": "2014",
+    "type": "tv"
+  },
+  {
+    "id": "299989",
+    "tmdbId": 299989,
+    "title": "제발 조용히 좀 해!",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/ihE0jp6V7R6dMwV7YrbYyjdQMvr.jpg",
+    "genres": [
+      "كوميديا",
+      "أنيميشن"
+    ],
+    "rating": 7.5,
+    "releaseDate": "2025",
+    "type": "tv"
+  },
+  {
+    "id": "83319",
+    "tmdbId": 83319,
+    "title": "BANGTAN BOMB",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/i01uYYJoovqILhexlYA6E1CHh56.jpg",
+    "backdropUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1600&auto=format&fit=crop&q=80",
+    "genres": [],
+    "rating": 9.5,
+    "releaseDate": "2013",
+    "type": "tv"
+  },
+  {
+    "id": "127529",
+    "tmdbId": 127529,
+    "title": "صيد خارج الحلبة",
+    "description": "لسداد ديونهم، يتورط ثلاثة مراهقين شجعان في شباك تجارة إقراض المال بينما يواجهون الأغنياء وأصحاب النفوذ الذين يعيشون على قوت الضعفاء",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/2HY6oDUf6A4gIjly34o4E1kf5sU.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/zhsEnDNCQX5dlI2wbKzV90pV0B9.jpg",
+    "genres": [
+      "دراما",
+      "أكشن ومغامرة",
+      "جريمة"
+    ],
+    "rating": 8.5,
+    "releaseDate": "2023",
+    "type": "tv"
+  },
+  {
+    "id": "502",
+    "tmdbId": 502,
+    "title": "شارع سمسم",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tNi2aJPdCKfielGYzIi3IKxStz9.jpg",
+    "genres": [
+      "أطفال",
+      "كوميديا"
+    ],
+    "rating": 7.1,
+    "releaseDate": "1969",
+    "type": "tv",
+    "badge": "حلقة جديدة"
+  },
+  {
+    "id": "65733",
+    "tmdbId": 65733,
+    "title": "دورايمون",
+    "description": "يتم إرسال القط الروبوتي دورايمون في الوقت المناسب من القرن الثاني و العشرين لحماية نوبي البالغ من العمر 10 سنوات ، وهو صبي كسول وغير منسق. يمكن ل دورايمون إنشاء أدوات سرية من جيب على بطنه ، لكنها عادة ما تسبب السوء أكثر من الخير بسبب ميل نوبي إلى إساءة استخدامها.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9YqdMXlPTQGLIG67vqZdsPdPC4T.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/c2oiRa7V3bQzof4wVGzLXtWJ5QU.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "أنيميشن",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "أطفال",
+      "عائلي"
+    ],
+    "rating": 8.1,
+    "releaseDate": "2005",
+    "type": "tv",
+    "badge": "دبلجة جديدة"
+  },
+  {
+    "id": "57532",
+    "tmdbId": 57532,
+    "title": "PAW Patrol",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+    "genres": [
+      "أنيميشن",
+      "أطفال"
+    ],
+    "rating": 7,
+    "releaseDate": "2013",
+    "type": "tv",
+    "badge": "أضيف حديثاً"
+  },
+  {
+    "id": "257723",
+    "tmdbId": 257723,
+    "title": "Maddie + Triggs",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/poDJP5e9JzyTSY1bYdcZkAjivVr.jpg",
+    "genres": [
+      "أنيميشن",
+      "أطفال"
+    ],
+    "rating": 10,
+    "releaseDate": "2024",
+    "type": "tv",
+    "badge": "موسم جديد"
+  },
+  {
+    "id": "12225",
+    "tmdbId": 12225,
+    "title": "Peppa Pig",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fnyS6gOv9tTjhHPl4A1aKEDgWEG.jpg",
+    "genres": [
+      "أنيميشن",
+      "أطفال"
+    ],
+    "rating": 6.5,
+    "releaseDate": "2004",
+    "type": "tv"
+  },
+  {
+    "id": "3022",
+    "tmdbId": 3022,
+    "title": "Rugrats",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+    "genres": [
+      "عائلي",
+      "أنيميشن",
+      "أطفال",
+      "كوميديا"
+    ],
+    "rating": 7.6,
+    "releaseDate": "1991",
+    "type": "tv"
+  },
+  {
+    "id": "212989",
+    "tmdbId": 212989,
+    "title": "LEGO Ninjago: Dragons Rising",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/p1P0QJ3cqeBnODfyQd2ceEZ23KQ.jpg",
+    "genres": [
+      "أنيميشن",
+      "أطفال",
+      "أكشن ومغامرة"
+    ],
+    "rating": 8,
+    "releaseDate": "2023",
+    "type": "tv"
+  },
+  {
+    "id": "57911",
+    "tmdbId": 57911,
+    "title": "عبقور",
+    "description": "روبرت آلي يشبه القط غذاءه المفضل معجون الفاصوليا والكعك المحلى, أتى من المستقبل من القرن الثاني والعشرون، لديه جيب بُعدي في بطنه يمكنه إستخراج أدوات كثيرة منه ليساعد الأطفال بكل الأدوات التي جلبها معه في جيبه البعدي.\n\nيدخل في مغامرات كثيرة ويواجه مشاكل كثيرة تتعلق بأصدقائه الأطفال فكيف سيستطيع التعامل معها؟",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/ttigRndzMgaxuVc33rmEv5FrSwL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6oVBODwFvbDJczBFlf4J930jKZg.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "أنيميشن",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "أطفال",
+      "عائلي"
+    ],
+    "rating": 7.7,
+    "releaseDate": "1979",
+    "type": "tv"
+  },
+  {
+    "id": "65763",
+    "tmdbId": 65763,
+    "title": "لوني تونز الجديد",
+    "description": "يتحدث المسلسل عن شخصية الأرنب باغز باني الكلاسيكية في إطار حديث حيث يواجه باغز باني خصوم جدد هما؛ ايل الشتاء والأرنب المتجهم كما أنه يحصل على مساعدة من بعض الشخصيات الجديدة مثل سكويس وبيغ فوت.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/136xIwLU0YCjgcYt0feP7u97lUb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/h8tzpd1pqyKCu5V4lw3eUiO6L9Y.jpg",
+    "genres": [
+      "أنيميشن",
+      "كوميديا",
+      "عائلي",
+      "أطفال"
+    ],
+    "rating": 7,
+    "releaseDate": "2015",
+    "type": "tv"
+  },
+  {
+    "id": "68073",
+    "tmdbId": 68073,
+    "title": "The Loud House",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/jQmYRTt29hTNFGdNdwFVazOrDpO.jpg",
+    "genres": [
+      "أنيميشن",
+      "كوميديا",
+      "عائلي",
+      "أطفال",
+      "غموض"
+    ],
+    "rating": 7.8,
+    "releaseDate": "2016",
+    "type": "tv"
+  },
+  {
+    "id": "9980",
+    "tmdbId": 9980,
+    "title": "وودي نقار الخشب",
+    "description": "وودي نقار الخشب أو وودي وود بيكر هو شخصية رسوم متحركة ويتمثل في طائر نقار الخشب يتميز بذكاءه وبضحكته الرنانة، تم إنتاجه في عام 1940، وقام بابتكار الشخصية والتر لانتز وبين هارداواي وأليكس لوفي وتم توزيعها من قبل إستوديوهات يونيفيرسال.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/oizXc3SnlSWDqPMmfe4koUj4RRo.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/vdcuZ7YHLemlTZ5NPfbctumWIg2.jpg",
+    "genres": [
+      "أنيميشن",
+      "كوميديا",
+      "أطفال"
+    ],
+    "rating": 6.6,
+    "releaseDate": "1999",
+    "type": "tv"
+  },
+  {
+    "id": "1025",
+    "tmdbId": 1025,
+    "title": "The Bullwinkle Show",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/cAMWBJyYynFWxJNrIvVnHlN2e9P.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/6wVEWwNpOOIWalkqsoV8SNGBryI.jpg",
+    "genres": [
+      "أنيميشن",
+      "أطفال",
+      "كوميديا",
+      "عائلي"
+    ],
+    "rating": 7.1,
+    "releaseDate": "1959",
+    "type": "tv"
+  },
+  {
+    "id": "6732",
+    "tmdbId": 6732,
+    "title": "الخراف الظراف والذئب الخواف",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/4rqGhqQ3aHv5TN7z59OsnLFhD8t.jpg",
+    "genres": [
+      "أنيميشن",
+      "أطفال",
+      "أكشن ومغامرة",
+      "كوميديا",
+      "خيال علمي وفانتازيا"
+    ],
+    "rating": 7.4,
+    "releaseDate": "2005",
+    "type": "tv"
+  },
+  {
+    "id": "220150",
+    "tmdbId": 220150,
+    "title": "آفاق البوكيمون",
+    "description": "يخوض مغامران شابّان مهمة مثيرة تتمثل في زيارة أراضٍ جديدة، ويكشفان أسرارًا قديمة ويواجهان البوكيمون... و\"كرات البوكيمون\" التي لم يروها من قبل!",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/qCRLHvSmjAzZlgtKBB2tMibYcxM.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/d0axpGojOqDag5lDa0eNSEtw11l.jpg",
+    "genres": [
+      "أنيميشن",
+      "أكشن ومغامرة",
+      "خيال علمي وفانتازيا",
+      "أطفال"
+    ],
+    "rating": 8.7,
+    "releaseDate": "2023",
+    "type": "tv"
+  },
+  {
+    "id": "80885",
+    "tmdbId": 80885,
+    "title": "忍者ハットリくん",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/9PUkpvq0wJnJ2M00dtgxKn6LptB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
+    "genres": [
+      "أنيميشن",
+      "أكشن ومغامرة",
+      "كوميديا",
+      "عائلي",
+      "أطفال"
+    ],
+    "rating": 6.4,
+    "releaseDate": "1981",
+    "type": "tv"
+  },
+  {
+    "id": "4630",
+    "tmdbId": 4630,
+    "title": "أحلام تيمي",
+    "description": "الوالدان السحريان (بالإنجليزية: The Fairly Odd Parents)‏ (يلفظ: ذا فيرلي أود بارنتس) هو اسم مسلسل رسوم متحركة من تآليف بوتش هارتمان, ومن إنتاج نكلوديون. يعرض المسلسل في العالم العربي على قناة ديزني الشرق الأوسط. تم دبلجته إلى العربية وتحديداً باللهجة المصرية العامية بواسطة شركة Pro Production، كما دبلجت بعض الحلقات للغة العربية الفصحى من قبل الستوديو اللبناني فيلملي وعرض على قناة إم بي سي 3. كما قام مركز الزهرة أيضاً بدبلجته إلى اللغة العربية الفصحى وعُرض على سبيس تون باسم أحلام تيمي.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/rMKFsYeK3LPJGk9xqUHhGdqA4aB.jpg",
+    "genres": [
+      "أنيميشن",
+      "كوميديا",
+      "خيال علمي وفانتازيا",
+      "أطفال"
+    ],
+    "rating": 7.6,
+    "releaseDate": "2001",
+    "type": "tv"
+  },
+  {
+    "id": "607",
+    "tmdbId": 607,
+    "title": "الفتيات الخارقات",
+    "description": "لا يتوفر وصف لهذا العمل حالياً.",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/4UsOLQMVIKrdGZZEAq4XtjUYdiC.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
+    "genres": [
+      "أكشن ومغامرة",
+      "أنيميشن",
+      "كوميديا",
+      "أطفال",
+      "عائلي"
+    ],
+    "rating": 7.5,
+    "releaseDate": "1998",
+    "type": "tv"
+  },
+  {
+    "id": "82728",
+    "tmdbId": 82728,
+    "title": "Bluey",
+    "description": "بلووي كلبة من سلالة بلو هيلر تبلغ من العمر ست سنوات ولا تعرف الكلل، وهي تحب اللعب وتحول الحياة العائلية اليومية إلى مغامرات غير عادية، مما ينمي خيالها بالإضافة إلى مرونتها العقلية والجسدية والعاطفية",
+    "coverUrl": "https://image.tmdb.org/t/p/w500/upCIgHgHkczz4xOyzp59DY64TgS.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/w1280/g88VMPtog8sl8riaIRtz4U80dMK.jpg",
+    "genres": [
+      "أنيميشن",
+      "كوميديا",
+      "عائلي",
+      "أطفال"
+    ],
+    "rating": 8.6,
+    "releaseDate": "2018",
+    "type": "tv"
+  }
+]

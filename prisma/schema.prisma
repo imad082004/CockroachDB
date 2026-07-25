@@ -1,0 +1,96 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "cockroachdb"
+  url      = env("DATABASE_URL")
+}
+
+model Movie {
+  id              String   @id @default(uuid())
+  tmdb_id         String   @unique
+  title           String
+  original_title  String?
+  description     String?
+  description_en  String?
+  cover_url       String?
+  backdrop_url    String?
+  cover_url_en    String?
+  backdrop_url_en String?
+  genres          String[] // Stored as text array
+  genres_en       String[]
+  rating          Float?   @default(0)
+  release_date    String?
+  duration        String?
+  cast_list       Json?    @default("[]")
+  cast_en         Json?    @default("[]")
+  trailer_url     String?
+  type            String   @default("movie")
+  servers         Json?    @default("[]")
+  created_at      DateTime @default(now())
+  
+  @@map("movies")
+}
+
+model Series {
+  id              String   @id @default(uuid())
+  tmdb_id         String   @unique
+  title           String
+  original_title  String?
+  description     String?
+  description_en  String?
+  cover_url       String?
+  backdrop_url    String?
+  cover_url_en    String?
+  backdrop_url_en String?
+  genres          String[]
+  genres_en       String[]
+  rating          Float?   @default(0)
+  release_date    String?
+  cast_list       Json?    @default("[]")
+  cast_en         Json?    @default("[]")
+  trailer_url     String?
+  type            String   @default("tv")
+  total_seasons   Int      @default(1)
+  created_at      DateTime @default(now())
+
+  episodes        Episode[]
+  
+  @@map("series")
+}
+
+model Episode {
+  id              String   @id @default(uuid())
+  series_id       String
+  season_number   Int
+  episode_number  Int
+  title           String?
+  title_en        String?
+  description     String?
+  description_en  String?
+  image_url       String?
+  image_url_en    String?
+  duration        String?
+  release_date    String?
+  video_url       String?
+  servers         Json?    @default("[]")
+  created_at      DateTime @default(now())
+
+  series          Series   @relation(fields: [series_id], references: [id], onDelete: Cascade)
+
+  @@unique([series_id, season_number, episode_number])
+  @@map("episodes")
+}
+
+model GlobalSettings {
+  id                     String  @id @default(uuid())
+  maintenance_mode       Boolean @default(false)
+  maintenance_message    String?
+  maintenance_message_en String?
+
+  @@map("global_settings")
+}
