@@ -7,7 +7,7 @@ const { Client } = pg;
 
 const de = (str) => Buffer.from(str, "base64").toString("utf-8");
 const AIVEN_URL = process.env.AIVEN_URL || de("cG9zdGdyZXM6Ly9hdm5hZG1pbjpBVk5TX0hSeHBkUlNPRXlRZGwycmU4UFRAcGctbW92LW1vdmlzLmUuYWl2ZW5jbG91ZC5jb206MjY4NTEvZGVmYXVsdGRi");
-const COCKROACH_URL = process.env.COCKROACH_URL || de("cG9zdGdyZXNxbDovL21vdmlzOjl1OWtRbk1NTjFxM2Zaa3RjbWF1ZEFAaXRjaHktbWFtbW90aC0xODMwNC5qeFYuZ2NwLWV1cm9wZS13ZXN0Mi5jb2Nrcm9hY2hsYWJzLmNsb3VkOjI2MjU3L2RlZmF1bHRkYg==");
+const COCKROACH_URL = process.env.COCKROACH_URL || de("cG9zdGdyZXNxbDovL21vdmlzOjl1OWtRbk1NTjFxM2Zaa3RjbWF1ZEFAaXRjaHktbWFtbW90aC0xODMwNC5qeGYuZ2NwLWV1cm9wZS13ZXN0Mi5jb2Nrcm9hY2hsYWJzLmNsb3VkOjI2MjU3L2RlZmF1bHRkYg==");
 
 async function run() {
   const aiven = new Client({ connectionString: AIVEN_URL, ssl: { rejectUnauthorized: false } });
