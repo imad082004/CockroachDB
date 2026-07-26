@@ -1,0 +1,29 @@
+name: Migrate Aiven to CockroachDB (Streaming ETL)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  migrate-database:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install DB Drivers & Streaming Package
+        run: |
+          npm install pg pg-query-stream --no-save
+
+      - name: Run Database Streaming Migration
+        run: |
+          node migrate_db.js
